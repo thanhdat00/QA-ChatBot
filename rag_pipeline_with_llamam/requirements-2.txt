@@ -1,0 +1,16 @@
+urllib3==2.2.2
+torch==2.4.0
+pyarrow==17.0.0
+pydantic==2.8.2
+pydantic_core==2.20.1
+httpcore==1.0.5
+httpx==0.27.0
+uvicorn
+fastapi
+milvus-model
+pymilvus
+scipy==1.13.1
+langchain-ollama
+langchain
+langchain_community
+ollama

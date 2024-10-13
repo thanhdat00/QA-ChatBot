@@ -1,0 +1,13 @@
+/.history
+/.notebook
+/.venv
+/Khoi
+Volumes
+__pycache__
+backend/__pycache__
+/.vscode
+/volumes
+backend/features
+backend/test_data
+.idea
+*.xml
